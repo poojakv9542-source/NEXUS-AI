@@ -1,0 +1,11 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+data/nexus.db
+*.db-journal
+.DS_Store

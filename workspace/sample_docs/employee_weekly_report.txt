@@ -1,0 +1,8 @@
+NEXUS AI SAMPLE WORKSPACE
+Weekly Employee Performance Report
+
+Team A completed 18 assigned tasks this week.
+Team B completed 14 assigned tasks this week.
+Four tasks are overdue and require manager review.
+The average task completion time was 2.4 days.
+The next review meeting is scheduled for Friday.
